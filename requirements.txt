@@ -1,0 +1,10 @@
+langchain==0.3.7
+langchain-core==0.3.19
+langchain-openai==0.2.8
+langchain-community==0.3.7
+openai
+faiss-cpu
+python-dotenv
+requests
+beautifulsoup4
+pydantic
